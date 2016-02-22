@@ -1,0 +1,187 @@
+{
+  "tagName": "mj-body",
+  "children": [
+    {
+      "tagName": "mj-section",
+      "children": [
+        {
+          "tagName": "mj-column",
+          "children": [
+            {
+              "tagName": "mj-image",
+              "children": [],
+              "attributes": {
+                "href": "",
+                "src": "http://oi08.mjt.lu/img/oi08/b/14jsu/4g14.png",
+                "alt": "",
+                "align": "center",
+                "margin-top": 10,
+                "margin-bottom": 10,
+                "margin-left": 25,
+                "margin-right": 25,
+                "border": "none",
+                "": "none",
+                "vertical-align": "top",
+                "image-id": 2029,
+                "height": 42,
+                "width": 203
+              },
+              "id": "4yT-oHrQg"
+            }
+          ],
+          "attributes": {
+            "vertical-align": "top",
+            "width": 600
+          },
+          "id": "4kZYbiHHQe"
+        }
+      ],
+      "attributes": {
+        "background-color": "#ffffff",
+        "margin-top": "45",
+        "margin-bottom": "45",
+        "hidden": false,
+        "name": "Nouvelle section",
+        "image-id": 2030,
+        "background-url": "http://oi08.mjt.lu/img/oi08/b/14jsu/4gro.png"
+      },
+      "id": "EkKWoBSQg"
+    },
+    {
+      "tagName": "mj-section",
+      "children": [
+        {
+          "tagName": "mj-column",
+          "children": [
+            {
+              "tagName": "mj-text",
+              "children": [],
+              "attributes": {
+                "margin-top": 10,
+                "margin-bottom": 10,
+                "margin-left": 25,
+                "margin-right": 25,
+                "align": "left",
+                "color": "#000000",
+                "font-size": "13px",
+                "line-height": "30px",
+                "word-wrap": "break-word",
+                "font-family": "Ubuntu, Helvetica, Arial, sans-serif",
+                "vertical-align": "top"
+              },
+              "id": "Ey5gVP0mx",
+              "content": "<p><span class=\"rangy-font-size\" style=\"font-size: 18px;\">Dear John,</span></p><p><span class=\"rangy-font-size\" style=\"font-size: 18px;\">Welcome to Number. Please confirm you <strong class=\"rangy-bold\">email address</strong> by clicking on the button below.</span></p>"
+            }
+          ],
+          "attributes": {
+            "vertical-align": "top",
+            "width": 600
+          },
+          "id": "4ybrpXPAmx"
+        }
+      ],
+      "attributes": {
+        "background-color": "#ffffff",
+        "margin-top": 20,
+        "margin-bottom": "0",
+        "hidden": false,
+        "name": "Nouvelle section"
+      },
+      "id": "VkHamDCml"
+    },
+    {
+      "tagName": "mj-section",
+      "children": [
+        {
+          "tagName": "mj-column",
+          "children": [
+            {
+              "tagName": "mj-button",
+              "children": [],
+              "attributes": {
+                "background-color": "#41B8FF",
+                "color": "#FFFFFF",
+                "margin-top": "0",
+                "margin-bottom": 10,
+                "margin-left": 25,
+                "margin-right": 25,
+                "font-size": "13px",
+                "align": "center",
+                "vertical-align": "middle",
+                "border": "none",
+                "padding": "15px 30px",
+                "border-radius": "0",
+                "text-decoration": "none",
+                "font-family": "Ubuntu, Helvetica, Arial, sans-serif",
+                "href": "{{var:confirmation_link:\"Default value\"}}"
+              },
+              "id": "4JomVDAml",
+              "content": "CONFIRM EMAIL"
+            }
+          ],
+          "attributes": {
+            "vertical-align": "top",
+            "width": 600
+          },
+          "id": "4J-DQVwCXx"
+        }
+      ],
+      "attributes": {
+        "background-color": "#ffffff",
+        "margin-top": "0",
+        "margin-bottom": "0",
+        "hidden": false,
+        "name": "Nouvelle section"
+      },
+      "id": "N1vm4DCml"
+    },
+    {
+      "tagName": "mj-section",
+      "children": [
+        {
+          "tagName": "mj-column",
+          "children": [
+            {
+              "tagName": "mj-text",
+              "children": [],
+              "attributes": {
+                "margin-top": 0,
+                "margin-bottom": 10,
+                "margin-left": 25,
+                "margin-right": 25,
+                "align": "left",
+                "color": "#000000",
+                "font-size": "13px",
+                "line-height": "30px",
+                "word-wrap": "break-word",
+                "font-family": "Ubuntu, Helvetica, Arial, sans-serif",
+                "vertical-align": "top"
+              },
+              "id": "41qEsrB7g",
+              "content": "<p>If the button doesn't work, please copy paste the following link in your browser: <strong class=\"rangy-bold\">{{var:confirmation_link:\"Default value\"}}</strong></p><p><span class=\"rangy-font-size\" style=\"font-size: 18px;\">Cheers, The Number Team.</span></p>"
+            }
+          ],
+          "attributes": {
+            "vertical-align": "top",
+            "width": 600
+          },
+          "id": "EkZ_VsrS7l"
+        }
+      ],
+      "attributes": {
+        "background-color": "#ffffff",
+        "margin-top": 0,
+        "margin-bottom": 0,
+        "hidden": false,
+        "name": "Nouvelle section"
+      },
+      "id": "4kdNirBQx"
+    }
+  ],
+  "attributes": {
+    "background-color": "#d6dde5",
+    "font-size": "13px",
+    "font-family": "Ubuntu, Helvetica, Arial, sans-serif"
+  },
+  "id": "Vyz2EP0Xl"
+}
