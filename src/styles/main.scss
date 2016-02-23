@@ -1,0 +1,28 @@
+.mjel {
+  padding: 0.25rem;
+  border: 1px solid rgba(0,0,0,0.4);
+}
+
+.code {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  margin: 0;
+  overflow: auto;
+  background: #eee;
+  font-size: 10px;
+}
+
+.box {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem;
+}
+
+input {
+  width: 400px;
+  display: block;
+  margin-bottom: 0.5rem;
+}
