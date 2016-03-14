@@ -19,7 +19,7 @@ const Html = ({ content, state, stats: { style, main = 'bundle.js' } }) => (
 
     </head>
     <body>
-      <div id='root' dangerouslySetInnerHTML={{ __html: content }} />
+      <div id='root' dangerouslySetInnerHTML={{ __html: content }} class={{ class }} />
       <script src={`/dist/${main}`} />
     </body>
   </html>
